@@ -1,2 +1,3 @@
 themoviedb
 google-generativeai
+python-dotenv
